@@ -1,0 +1,3 @@
+- add different followers count in each card
+- Add card categories i.e. vloggers, musicians, influencers
+- Media queries
