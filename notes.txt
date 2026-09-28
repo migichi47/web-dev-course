@@ -1,3 +1,11 @@
-- add different followers count in each card
-- Add card categories i.e. vloggers, musicians, influencers
-- Media queries
+ - checkout Tap Academy Javascript tutorial
+ - install nodejs
+ - CLI vs GUI
+ - GUI - Graphical User Interface
+ - CLI - Command-line interface
+
+ - data types - integer/number, string, boolean, array, object
+ - variables - container that points/hold a value (data type)
+ - declaration of variables
+ - const vs let
+ 
