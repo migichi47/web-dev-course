@@ -1,9 +1,25 @@
-const age = 22; // number 
-const Name = "Migichi";  //string
-const isStudent = false;  // boolean
-const hobbies = ["singing", "gaming", "skating"]; //array
+const age = 22;
+const Name = "Migichi";
+const isStudent = false;
+const hobbies = ["singing", "gaming", "skating"];
 
-console.log("Hello my name is", Name, "and I am", age, "years old");
-console.log("Here are my hobbies", hobbies);
+// object - class
+const Kevin = {
+  height: 1.4,
+  weight: 55,
+  name: "Kevin Juma",
+  password: "123@kenya",
+  hobby: "coding",
+  isStudent: true,
+};
 
+const George = {
+  height: 1.5,
+  weight: 60,
+  name: "George Watson",
+  password: "Sp@xx1fy",
+  hobby: "skating",
+  isStudent: false,
+};
 
+console.log(typeof(George.password));

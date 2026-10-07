@@ -4,8 +4,14 @@
  - GUI - Graphical User Interface
  - CLI - Command-line interface
 
- - data types - integer/number, string, boolean, array, object
+ - data types - integer/number, string, boolean, {array, object}
  - variables - container that points/hold a value (data type)
  - declaration of variables
  - const vs let
  
+
+ - conditional rendering (if/else, operators)
+ 
+
+ - looping (for-loop, while-loop, switch-statements)
+ - functions - {hoisting, calling}
