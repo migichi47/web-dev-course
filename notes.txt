@@ -24,3 +24,4 @@
   - && => and
   - || => or
   - ?? => special or
+   - ! => not
