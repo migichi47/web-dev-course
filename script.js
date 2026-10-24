@@ -22,4 +22,11 @@ const George = {
   isStudent: false,
 };
 
-console.log(typeof(George.password));
+// console.log(typeof George.password);
+
+const a = "3"; //string
+const b = Number(a);
+
+//type conversion
+console.log(typeof a);
+console.log(typeof b);

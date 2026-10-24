@@ -15,3 +15,12 @@
 
  - looping (for-loop, while-loop, switch-statements)
  - functions - {hoisting, calling}
+
+
+  - Type Conversion
+  - converting a value from it's given data type to a new data type
+
+  - Comparison operators
+  - && => and
+  - || => or
+  - ?? => special or
