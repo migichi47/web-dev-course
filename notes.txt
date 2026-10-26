@@ -20,8 +20,25 @@
   - Type Conversion
   - converting a value from it's given data type to a new data type
 
-  - Comparison operators
-  - && => and
-  - || => or
-  - ?? => special or
-   - ! => not
+  - COMPARISON OPERATORS
+     - all operators work together with boolean values (true / false)
+
+  1. && => and
+  2. || => or
+  3. ! => not
+
+
+  1. NOT OPERATOR
+  - They convert a boolean value to the opposite value eg. from true to false,
+  or from false to true.
+
+  2. AND OPERATOR
+  - checks if all arguments provided are true
+  - if one of them is false, then it returns false
+  - if all of them are false, then it returns false
+
+  3. OR OPERATOR
+  - checks if one of the arguments is true
+  - if one of them is true, it returns true
+  - if all of them are true, it returns true
+  - if all of them are false, it returns false
